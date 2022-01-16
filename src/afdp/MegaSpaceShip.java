@@ -1,4 +1,4 @@
-package fdp;
+package afdp;
 
 public class MegaSpaceShip extends SpaceShip {
 

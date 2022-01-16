@@ -1,4 +1,4 @@
-package fdp;
+package afdp;
 
 public class UFOSpaceShip extends SpaceShip{
     public UFOSpaceShip(){

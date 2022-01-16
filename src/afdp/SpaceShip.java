@@ -1,4 +1,4 @@
-package fdp;
+package afdp;
 
 public abstract class SpaceShip {
     private String name;
